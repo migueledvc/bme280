@@ -6,9 +6,9 @@ GY-BME/P 280 3.3 &amp; EDU CIAA (sapi)
 a) Listado de archivos
 
 	1) GY-BMP280-3.3_BG.pdf -> Presentacion del producto, ver punto b)
-	2) BST-BMP280-DS001.pdf
-	3) BST-BME280-DS001.pdf
-	4) SRC e INC: Biblioteca del fabricante (BMP 280), adaptada a la sAPI, pero con Chip_ID 0x60 que corresponde al BME280. 
+	2) BST-BME280-DS001.pdf
+	3) ProductOverview.pdf
+	4) SRC e INC: Biblioteca del fabricante (BME 280), adaptada a la sAPI. 
 
 b) Bosch Sensortec BMP280 vs BME280 Sensor Confusion
 
